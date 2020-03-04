@@ -8,7 +8,7 @@ for NUAA Open Source
 
 ## A2OS Weekly
 
-[历次培训及讲座](历次培训及讲座.md)
+[历次分享及讨论](https://github.com/NUAA-Open-Source/weekly)
 
 ## Website
 
